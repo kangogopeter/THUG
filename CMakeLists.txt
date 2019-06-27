@@ -4,4 +4,4 @@ project(THUG)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(THUG main.cpp work.h peter.cpp peter.h kangogo.cpp kangogo.h swifter.swift Database.cpp Database.h data.cpp data.h)
+add_executable(THUG main.cpp work.h swifter.swift)
