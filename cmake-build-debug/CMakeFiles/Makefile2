@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/peter/CLionProjects/THUG/cmake-build-debug
 CMakeFiles/THUG.dir/all:
 	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/depend
 	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target THUG"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target THUG"
 .PHONY : CMakeFiles/THUG.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/THUG.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/THUG.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/THUG.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/THUG.dir/rule

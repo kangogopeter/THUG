@@ -4,4 +4,4 @@ project(THUG)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(THUG main.cpp work.h swifter.swift)
+add_executable(THUG main.cpp swifter.swift)

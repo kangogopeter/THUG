@@ -84,31 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/peter/CLionProjects/THUG/Database.cpp">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/Database.h">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/data.cpp">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/data.h">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/kangogo.cpp">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/kangogo.h">
-			<Option target="THUG"/>
-		</Unit>
 		<Unit filename="/home/peter/CLionProjects/THUG/main.cpp">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/peter.cpp">
-			<Option target="THUG"/>
-		</Unit>
-		<Unit filename="/home/peter/CLionProjects/THUG/peter.h">
 			<Option target="THUG"/>
 		</Unit>
 		<Unit filename="/home/peter/CLionProjects/THUG/swifter.swift">

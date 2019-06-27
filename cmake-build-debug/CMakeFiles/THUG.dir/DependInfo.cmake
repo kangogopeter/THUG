@@ -4,11 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/peter/CLionProjects/THUG/Database.cpp" "/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir/Database.cpp.o"
-  "/home/peter/CLionProjects/THUG/data.cpp" "/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir/data.cpp.o"
-  "/home/peter/CLionProjects/THUG/kangogo.cpp" "/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir/kangogo.cpp.o"
   "/home/peter/CLionProjects/THUG/main.cpp" "/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir/main.cpp.o"
-  "/home/peter/CLionProjects/THUG/peter.cpp" "/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir/peter.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -123,87 +123,6 @@ THUG/fast:
 	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/build
 .PHONY : THUG/fast
 
-Database.o: Database.cpp.o
-
-.PHONY : Database.o
-
-# target to build an object file
-Database.cpp.o:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/Database.cpp.o
-.PHONY : Database.cpp.o
-
-Database.i: Database.cpp.i
-
-.PHONY : Database.i
-
-# target to preprocess a source file
-Database.cpp.i:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/Database.cpp.i
-.PHONY : Database.cpp.i
-
-Database.s: Database.cpp.s
-
-.PHONY : Database.s
-
-# target to generate assembly for a file
-Database.cpp.s:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/Database.cpp.s
-.PHONY : Database.cpp.s
-
-data.o: data.cpp.o
-
-.PHONY : data.o
-
-# target to build an object file
-data.cpp.o:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/data.cpp.o
-.PHONY : data.cpp.o
-
-data.i: data.cpp.i
-
-.PHONY : data.i
-
-# target to preprocess a source file
-data.cpp.i:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/data.cpp.i
-.PHONY : data.cpp.i
-
-data.s: data.cpp.s
-
-.PHONY : data.s
-
-# target to generate assembly for a file
-data.cpp.s:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/data.cpp.s
-.PHONY : data.cpp.s
-
-kangogo.o: kangogo.cpp.o
-
-.PHONY : kangogo.o
-
-# target to build an object file
-kangogo.cpp.o:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/kangogo.cpp.o
-.PHONY : kangogo.cpp.o
-
-kangogo.i: kangogo.cpp.i
-
-.PHONY : kangogo.i
-
-# target to preprocess a source file
-kangogo.cpp.i:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/kangogo.cpp.i
-.PHONY : kangogo.cpp.i
-
-kangogo.s: kangogo.cpp.s
-
-.PHONY : kangogo.s
-
-# target to generate assembly for a file
-kangogo.cpp.s:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/kangogo.cpp.s
-.PHONY : kangogo.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -231,33 +150,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-peter.o: peter.cpp.o
-
-.PHONY : peter.o
-
-# target to build an object file
-peter.cpp.o:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/peter.cpp.o
-.PHONY : peter.cpp.o
-
-peter.i: peter.cpp.i
-
-.PHONY : peter.i
-
-# target to preprocess a source file
-peter.cpp.i:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/peter.cpp.i
-.PHONY : peter.cpp.i
-
-peter.s: peter.cpp.s
-
-.PHONY : peter.s
-
-# target to generate assembly for a file
-peter.cpp.s:
-	$(MAKE) -f CMakeFiles/THUG.dir/build.make CMakeFiles/THUG.dir/peter.cpp.s
-.PHONY : peter.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -267,21 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... THUG"
 	@echo "... edit_cache"
-	@echo "... Database.o"
-	@echo "... Database.i"
-	@echo "... Database.s"
-	@echo "... data.o"
-	@echo "... data.i"
-	@echo "... data.s"
-	@echo "... kangogo.o"
-	@echo "... kangogo.i"
-	@echo "... kangogo.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... peter.o"
-	@echo "... peter.i"
-	@echo "... peter.s"
 .PHONY : help
 
 
