@@ -1,0 +1,3 @@
+/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/THUG.dir
+/home/peter/CLionProjects/THUG/cmake-build-debug/CMakeFiles/edit_cache.dir
